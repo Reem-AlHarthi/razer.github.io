@@ -1,0 +1,29 @@
+body { 
+background-color:lavenderblush;
+}
+div {
+	text-align: center;
+	padding: 15px;
+	background-color: white;
+}
+a { 
+display: inline-block;
+text-decoration: none;
+color: grey;
+padding: 20px;
+font-size: 20px;
+ }
+ h1 {
+ 	text-align: center;
+ 	color: lightpink;
+ 	background-color: white;
+
+ }
+  label {
+ 	font-size: 25px;
+ 	padding: 160px;
+ 	color: lightpink;
+ }
+ a:hover{
+ 	background-color: silver;
+ }

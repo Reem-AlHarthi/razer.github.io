@@ -1,0 +1,32 @@
+body { 
+background-color:black;
+}
+div {
+	text-align: center;
+	padding: 15px;
+	background-color: white;
+}
+a { 
+display: inline-block;
+text-decoration: none;
+color: grey;
+padding: 20px;
+font-size: 20px;
+ }
+ a:hover{
+ 	background-color: silver;
+ }
+ h1 {
+ 	text-align: center;
+ 	color: lawngreen;
+ }
+ p {
+ 	text-align: center;
+ 	color: grey;
+ 	font-size: 20px;
+ }
+ label {
+ 	font-size: 25px;
+ 	padding: 160px;
+ 	color: lawngreen;
+ }
